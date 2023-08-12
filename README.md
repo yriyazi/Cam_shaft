@@ -2,6 +2,11 @@
 
 [![Everything Is AWESOME](https://yt-embed.herokuapp.com/embed?v=7ErJ2Q-R0Ss)](https://www.youtube.com/watch?v=7ErJ2Q-R0Ss "Everything Is AWESOME")
 
+<iframe width="560" height="315"
+src="https://www.youtube.com/watch?v=7ErJ2Q-R0Ss" 
+frameborder="0" 
+allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
+allowfullscreen></iframe>
 
 
 This repository contains a model of a cam shaft that has been designed and simulated using SolidWorks and MSC Adams. The cam shaft is based on a real car's cam shaft and includes the determination of the angle of the remaining shaft, as well as the implementation of contact and spring elements in MSC Adams.
