@@ -1,7 +1,7 @@
 # Cam_shaft
+Video
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/7ErJ2Q-R0Ss/0.jpg)](https://youtu.be/7ErJ2Q-R0Ss)
 
-
-![Alt Text](Animation\Animation.gif)
 
 This repository contains a model of a cam shaft that has been designed and simulated using SolidWorks and MSC Adams. The cam shaft is based on a real car's cam shaft and includes the determination of the angle of the remaining shaft, as well as the implementation of contact and spring elements in MSC Adams.
 
