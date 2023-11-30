@@ -52,10 +52,8 @@ Once you have installed SolidWorks and MSC Adams and imported the cam shaft mode
 
 Feel free to explore the files and adapt them to suit your specific needs.
 
-![Alt Text](blob:https://github.com/ff3d4941-4b7c-478b-992c-808bb20ea1c0
-)
 
-![Alt Text](https://github.com/yriyazi/Storage/blob/main/Camshaft/Gear%20box.jpg)
+![Alt Text](https://github.com/yriyazi/Storage/blob/main/Camshaft/plaster%20molding.jpg)
             
 ## License
 
