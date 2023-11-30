@@ -1,4 +1,6 @@
 # Cam_shaft
+One of my most fulfilling experiences began when Dr. Saeimi Sadigh, my professor, discussed poor valve spring quality, causing rattle and exhaust manifold failure. I worked around the clock to create and simulate a CAD replica of the motor to study it for the first time. I borrowed a camshaft from the university's auto mechanic shop, cast the camshaft in plaster, and measured the valve with a caliper. I then attempted to determine the appropriate stiffness for the valve spring in different situations. This project convinced me that physical systems are not bound to their models.
+
 Video
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/7ErJ2Q-R0Ss/0.jpg)](https://youtu.be/7ErJ2Q-R0Ss)
 
@@ -15,7 +17,6 @@ This repository contains a model of a cam shaft that has been designed and simul
 - [License](#license)
 
 ## Introduction
-
 The cam shaft is a crucial component in an internal combustion engine, responsible for controlling the opening and closing of the engine's valves. This repository presents a detailed model of a cam shaft that closely resembles the design of a cam shaft found in a real car. The model has been developed using SolidWorks, a popular computer-aided design (CAD) software, and simulated using MSC Adams, a multi-body dynamics simulation software.
 
 ## SolidWorks Modeling
@@ -63,4 +64,4 @@ Please note that this cam shaft model is for demonstration and educational purpo
 
 ______________________________________________________________________
 
-*Note: This README.md file is a fictional representation created by OpenAI's ChatGPT and does not contain real-world data or reflect an actual project.*
+*Note: This was not a real project and completely was pursued by my passion for mechanical engineering.*
