@@ -1,5 +1,5 @@
 # Cam_shaft
-One of my most fulfilling experiences began when Dr. Saeimi Sadigh, my professor, discussed poor valve spring quality, causing rattle and exhaust manifold failure. I worked around the clock to create and simulate a CAD replica of the motor to study it for the first time. I borrowed a camshaft from the university's auto mechanic shop, cast the camshaft in plaster, and measured the valve with a caliper. I then attempted to determine the appropriate stiffness for the valve spring in different situations. This project convinced me that physical systems are not bound to their models.
+One of my most fulfilling experiences began when Dr. Saeimi Sadigh, my professor, discussed poor valve spring quality, causing rattle and exhaust manifold failure. I worked around the clock with the guidance of Dr. Jahdi to create and simulate a CAD replica of the motor to study it for the first time. I borrowed a camshaft from the university's auto mechanic shop, cast the camshaft in plaster, and measured the valve with a caliper. I then attempted to determine the appropriate stiffness for the valve spring in different situations. This project convinced me that physical systems are not bound to their models.
 
 Video
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/7ErJ2Q-R0Ss/0.jpg)](https://youtu.be/7ErJ2Q-R0Ss)
